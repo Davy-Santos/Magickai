@@ -24,13 +24,4 @@ O foco do projeto foi o aprendizado de:
 - **CSS3**  
 - **JavaScript (ES6+)**  
 
-## 📂 Estrutura do Projeto
-
-│── index.html
-│── src/
-│ ├── css/ # Estilos da aplicação
-│ ├── js/ # Scripts de funcionalidade
-│ ├── imagens/ # Recursos visuais e ícones
-│
-└── README.md
 
